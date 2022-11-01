@@ -1,0 +1,13 @@
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\bin\Debug\WindowsFormsPersona.exe.config
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\bin\Debug\WindowsFormsPersona.exe
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\bin\Debug\WindowsFormsPersona.pdb
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.csprojAssemblyReference.cache
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.Form1.resources
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.Properties.Resources.resources
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.csproj.GenerateResource.cache
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.csproj.CopyComplete
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.exe
+C:\Users\Gustavo Candia\source\repos\WebApi\WindowsFormsPersona\obj\Debug\WindowsFormsPersona.pdb
